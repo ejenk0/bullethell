@@ -10,7 +10,7 @@ pygame.font.init()
 myfont = pygame.font.SysFont("Comic Sans MS", 30)
 
 # dirpath = os.path.dirname(os.path.realpath(__file__))
-fullsizeimage = pygame.image.load(dirpath  + "/scratch.png")
+# fullsizeimage = pygame.image.load(dirpath  + "/scratch.png")
 
 x = 10
 y = 10
